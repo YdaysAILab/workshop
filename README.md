@@ -57,7 +57,9 @@ Le système doit : récupérer le contrat depuis SharePoint → extraire le text
 ## Fichiers
 
 - [`01-exercices.md`](01-exercices.md) — énoncés (version participants, sans réponses)
-- [`02-corrige.md`](02-corrige.md) — corrigés + raisonnement (version animateur)
-- [`03-active-recall.md`](03-active-recall.md) — checklist d'auto-évaluation
+- `02-corrige.md` — corrigés + raisonnement (version animateur) — *non publié*
+- `03-active-recall.md` — checklist d'auto-évaluation — *non publié*
+
+> **Note `.gitignore`** : `02-corrige.md` et `03-active-recall.md` sont volontairement exclus du dépôt (listés dans `.gitignore`). Ce sont des supports animateur qui ne doivent pas être partagés avec les participants.
 
 Le fichier participants commence par une **carte des 25 blocs thématiques** et se termine par des **références officielles pour les étudiants** (Ragas, DeepEval, Langfuse, Helicone et MCP). Les mêmes regroupements sont repris dans le corrigé animateur. Les numéros d'exercices restent stables pour permettre les renvois entre supports.
