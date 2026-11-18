@@ -48,6 +48,16 @@ Les **69 exercices sont obligatoires pour tous les apprenants**. Ils sont répar
 - Justifier aussi **pourquoi pas les autres options**.
 - Il n'y a pas toujours une seule bonne réponse : le raisonnement compte autant que le choix.
 
+## Rendu
+
+> ⏰ **Date limite : 25.11.2026 à 23h59.**
+
+Chaque étudiant·e rend **un fichier Markdown (`.md`)** déposé dans le dossier [`rendu/`](rendu/), **sur sa propre branche**.
+
+- **Nom du fichier = prénom et nom** (minuscules, sans accents ni espaces) : `prenom-nom.md` — ex. `jean-dupont.md`.
+- **Une branche par étudiant·e** (jamais de rendu directement sur `main`), puis une **Pull Request** vers `main`.
+- Voir [`rendu/README.md`](rendu/README.md) pour la marche à suivre et le modèle de fichier.
+
 ## Le cas fil rouge
 
 > *« Analyse ce contrat fournisseur et dis-moi s'il présente un risque DORA. »*
